@@ -9,6 +9,12 @@ meaningful insights and drive impactful decision-making. I'm currently pursuing 
 - Courses: Statistical Models, Data Engineering Platforms, Leadership and Consulting, Machine Learning I & II, Time Series
   Analysis and Forecasting, Bayesian Machine Learning in Gen AI applications and Financial Analytics
 
+*BA in Neuroscience, The University of Chicago | Jun 2019*
+
+- Dean's List
+- Jeff Metcalf Fellowship
+- College Research Fellows Recipient
+
 ## **Publications** 
 Systematic expression profiling of Dpr and DIP genes reveals cell surface codes in Drosophila larval motor and
 sensory neurons. Development (Cambridge, England), 149(10), dev200355. DOI: https://doi.org/10.1242/dev.200355
