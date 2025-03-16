@@ -15,6 +15,34 @@ meaningful insights and drive impactful decision-making. I'm currently pursuing 
 - Jeff Metcalf Fellowship
 - College Research Fellows Recipient
 
+## **Projects** 
+
+**Cardiac Health Classification with HMMs and Deep Learning**, *UChicago MS-ADS | Winter Quarter 2025*
+- Designed a Bayesian machine learning pipeline leveraging ResNet-18 for feature extraction and Gaussian HMM modeling to predict ejection fraction (EF) from echocardiogram videos, enhancing automated cardiac assessment
+- Applied regression techniques, including linear, ridge, and ensemble models, to predict EF from extracted cardiac motion features, demonstrating expertise in time series modeling and medical AI applications
+
+**Global Power Plant Analysis**, *UChicago MS-ADS| Autumn Quarter 2024*
+- Designed and implemented a relational database in MySQL, normalizing data and creating an Enhanced Entity Relationship (EER) diagram for structured energy data analysis
+- Developed and executed SQL queries to identify renewable energy hotspots, analyze CO₂ emissions by fuel type, and assess the economic impact of power plants on employment trends
+
+**Predicting Customer Default Risk**, *UChicago MS-ADS| Autumn Quarter 2024*
+- Built and optimized Random Forest and XG Boost models in Python to predict customer defaults, improve classification accuracy and demonstrate machine learning in risk assessment
+- Identified key predictors, show-casing end to end model development, feature engineering and business impact evaluation 
+
+**Insurance Trend Analysis for Strategic Client Intake**, *Apex Pediatric Therapy Services| Aug 2023 - Dec 2023*
+- Optimized company-wide client strategy using Python to analyze insurance reimbursement trends, identify high-value insurance providers and prioritize client intake based on revenue potential
+- Informed company expansion and optimized resource allocation by analyzing revenue and service hours in Python across different therapy delivery options, including in-home and location-based services
+
+**Optical Microscopy Analysis for Neural Circuit Formation**, *UChicago MGCB | Apr 2017 – Jun 2021*
+- Utilized microscopy to analyze the expression and localization patterns of cell surface molecules critical to synapse formation and neural circuit development
+- Mapped spatial protein expression and molecular interactions to tissue-specific connectivity through spatial transcriptomics analysis 
+
+**Real-Time Imaging of Neural Circuitry Development**, *UChicago MGCB | Apr 2017 – Jun 2021*
+- Designed live-imaging workflows to observe neural circuit formation and track how cell-surface molecule
+mutations impact the structural, functional and spatial organization of synapses
+- Leveraged scalable methods to study neural connectivity over time, applying digital pathology techniques
+to analyze spatial and temporal neural dynamics
+
 ## **Publications** 
 Systematic expression profiling of Dpr and DIP genes reveals cell surface codes in Drosophila larval motor and
 sensory neurons. Development (Cambridge, England), 149(10), dev200355. DOI: https://doi.org/10.1242/dev.200355
