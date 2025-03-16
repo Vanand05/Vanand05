@@ -18,9 +18,8 @@ meaningful insights and drive impactful decision-making. I'm currently pursuing 
 ## **Projects** 
 
 **Cardiac Health Classification with HMMs and Deep Learning**, *UChicago MS-ADS | Winter Quarter 2025*
-- Developed Bayesian Machine Learning pipeline integrating a ResNet-18 (Convolutional Neural Network) model for feature extraction and Gaussian Hidden Markov Model modeling to analyze left ventricle motion and predict hidden states from echocardiograms
+- Developed Bayesian Machine Learning pipeline integrating a ResNet-18 (Convolutional Neural Network) model for feature extraction and Gaussian Hidden Markov Model to analyze left ventricle motion and predict hidden states from echocardiogram videos
 - Evaluated the accuracy of Bayesian state modeling for ejection fraction (EF) prediction using regression techniques, including linear, ridge, and ensemble models, validating performance with RMSE and MAPE
-
 
 **Global Power Plant Analysis**, *UChicago MS-ADS| Autumn Quarter 2024*
 - Designed and implemented a relational database in MySQL, normalizing data and creating an Enhanced Entity Relationship (EER) diagram for structured energy data analysis
